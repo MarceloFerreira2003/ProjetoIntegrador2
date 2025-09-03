@@ -1,0 +1,1 @@
+<center><footer>Desenvolvido em 2025</footer></center>
